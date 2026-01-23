@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E97B4E56-3E7D-4D3D-B5AC-6B9508BD7FFF}|OrganizationApp\\OrganizationApp.csproj|e:\\cntt\\hoc_ki_8_2026\\dbcl_ktpm\\bt\\buoi4\\organizationapp\\organizationapp\\frmorganization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97B4E56-3E7D-4D3D-B5AC-6B9508BD7FFF}|OrganizationApp\\OrganizationApp.csproj|solutionrelative:organizationapp\\frmorganization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97B4E56-3E7D-4D3D-B5AC-6B9508BD7FFF}|OrganizationApp\\OrganizationApp.csproj|e:\\cntt\\hoc_ki_8_2026\\dbcl_ktpm\\bt\\buoi4\\organizationapp\\organizationapp\\frmorganization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E97B4E56-3E7D-4D3D-B5AC-6B9508BD7FFF}|OrganizationApp\\OrganizationApp.csproj|solutionrelative:organizationapp\\frmorganization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97B4E56-3E7D-4D3D-B5AC-6B9508BD7FFF}|OrganizationApp\\OrganizationApp.csproj|e:\\cntt\\hoc_ki_8_2026\\dbcl_ktpm\\bt\\buoi4\\organizationapp\\organizationapp\\frmorganization.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97B4E56-3E7D-4D3D-B5AC-6B9508BD7FFF}|OrganizationApp\\OrganizationApp.csproj|solutionrelative:organizationapp\\frmorganization.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97B4E56-3E7D-4D3D-B5AC-6B9508BD7FFF}|OrganizationApp\\OrganizationApp.csproj|e:\\cntt\\hoc_ki_8_2026\\dbcl_ktpm\\bt\\buoi4\\organizationapp\\organizationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97B4E56-3E7D-4D3D-B5AC-6B9508BD7FFF}|OrganizationApp\\OrganizationApp.csproj|solutionrelative:organizationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97B4E56-3E7D-4D3D-B5AC-6B9508BD7FFF}|OrganizationApp\\OrganizationApp.csproj|e:\\cntt\\hoc_ki_8_2026\\dbcl_ktpm\\bt\\buoi4\\organizationapp\\organizationapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E97B4E56-3E7D-4D3D-B5AC-6B9508BD7FFF}|OrganizationApp\\OrganizationApp.csproj|solutionrelative:organizationapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\OrganizationApp\\Program.cs",
+              "RelativeDocumentMoniker": "OrganizationApp\\Program.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\OrganizationApp\\Program.cs",
+              "RelativeToolTip": "OrganizationApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T03:11:57.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOrganization.Designer.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\OrganizationApp\\FrmOrganization.Designer.cs",
+              "RelativeDocumentMoniker": "OrganizationApp\\FrmOrganization.Designer.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\OrganizationApp\\FrmOrganization.Designer.cs",
+              "RelativeToolTip": "OrganizationApp\\FrmOrganization.Designer.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T03:08:39.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\OrganizationApp\\App.config",
+              "RelativeDocumentMoniker": "OrganizationApp\\App.config",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\OrganizationApp\\App.config",
+              "RelativeToolTip": "OrganizationApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-23T03:07:51.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmOrganization.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\OrganizationApp\\FrmOrganization.cs",
+              "RelativeDocumentMoniker": "OrganizationApp\\FrmOrganization.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\OrganizationApp\\FrmOrganization.cs",
+              "RelativeToolTip": "OrganizationApp\\FrmOrganization.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:57:51.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOrganization.cs [Design]",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\OrganizationApp\\FrmOrganization.cs",
+              "RelativeDocumentMoniker": "OrganizationApp\\FrmOrganization.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\OrganizationApp\\OrganizationApp\\FrmOrganization.cs [Design]",
+              "RelativeToolTip": "OrganizationApp\\FrmOrganization.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:54:51.085Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

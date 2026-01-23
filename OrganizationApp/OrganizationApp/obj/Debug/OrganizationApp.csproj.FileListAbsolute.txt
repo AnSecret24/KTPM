@@ -1,0 +1,11 @@
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\bin\Debug\OrganizationApp.exe.config
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\bin\Debug\OrganizationApp.exe
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\bin\Debug\OrganizationApp.pdb
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\obj\Debug\OrganizationApp.csproj.AssemblyReference.cache
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\obj\Debug\OrganizationApp.FrmOrganization.resources
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\obj\Debug\OrganizationApp.Properties.Resources.resources
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\obj\Debug\OrganizationApp.csproj.GenerateResource.cache
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\obj\Debug\OrganizationApp.csproj.CoreCompileInputs.cache
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\obj\Debug\OrganizationApp.exe
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\obj\Debug\OrganizationApp.pdb
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\OrganizationApp\OrganizationApp\obj\Debug\OrganizationApp.exe.config

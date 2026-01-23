@@ -1,0 +1,17 @@
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Bai5.Tests.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Bai5.Tests.pdb
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Bai5.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Bai5.pdb
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\obj\Debug\Bai5.Tests.csproj.AssemblyReference.cache
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\obj\Debug\Bai5.Tests.csproj.CoreCompileInputs.cache
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\obj\Debug\Bai5.Tests.csproj.Up2Date
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\obj\Debug\Bai5.Tests.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5.Tests\obj\Debug\Bai5.Tests.pdb

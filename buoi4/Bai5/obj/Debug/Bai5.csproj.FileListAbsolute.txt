@@ -1,0 +1,6 @@
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5\bin\Debug\Bai5.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5\bin\Debug\Bai5.pdb
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5\obj\Debug\Bai5.csproj.AssemblyReference.cache
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5\obj\Debug\Bai5.dll
+E:\CNTT\Hoc_ki_8_2026\DBCL_KTPM\BT\buoi4\buoi4\Bai5\obj\Debug\Bai5.pdb

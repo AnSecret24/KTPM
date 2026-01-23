@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33615024-6CD6-4441-9346-DF856A1FB6A8}|Bai5.Tests\\Bai5.Tests.csproj|e:\\cntt\\hoc_ki_8_2026\\dbcl_ktpm\\bt\\buoi4\\buoi4\\bai5.tests\\palindromecheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33615024-6CD6-4441-9346-DF856A1FB6A8}|Bai5.Tests\\Bai5.Tests.csproj|solutionrelative:bai5.tests\\palindromecheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6426E454-8EC4-4EAE-B3BF-321B488B946C}|Bai5\\Bai5.csproj|e:\\cntt\\hoc_ki_8_2026\\dbcl_ktpm\\bt\\buoi4\\buoi4\\bai5\\palindromechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6426E454-8EC4-4EAE-B3BF-321B488B946C}|Bai5\\Bai5.csproj|solutionrelative:bai5\\palindromechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35B33A6-D85F-4A1B-A045-DEF530B66BEA}|Bai4.Tests\\Bai4.Tests.csproj|e:\\cntt\\hoc_ki_8_2026\\dbcl_ktpm\\bt\\buoi4\\buoi4\\bai4.tests\\fibonaccitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35B33A6-D85F-4A1B-A045-DEF530B66BEA}|Bai4.Tests\\Bai4.Tests.csproj|solutionrelative:bai4.tests\\fibonaccitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0D2ED-F078-4D23-AE7E-A3CFE5B40A43}|Bai4\\Bai4.csproj|e:\\cntt\\hoc_ki_8_2026\\dbcl_ktpm\\bt\\buoi4\\buoi4\\bai4\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0D2ED-F078-4D23-AE7E-A3CFE5B40A43}|Bai4\\Bai4.csproj|solutionrelative:bai4\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DFBD04-B9C4-4AB5-86F2-28B8F409631C}|Bai3.Tests\\Bai3.Tests.csproj|e:\\cntt\\hoc_ki_8_2026\\dbcl_ktpm\\bt\\buoi4\\buoi4\\bai3.tests\\radixconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DFBD04-B9C4-4AB5-86F2-28B8F409631C}|Bai3.Tests\\Bai3.Tests.csproj|solutionrelative:bai3.tests\\radixconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9461A5F-2125-45C9-A7D6-8F62580FA9F2}|Bai3\\Bai3.csproj|E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\bai3\\radixconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9461A5F-2125-45C9-A7D6-8F62580FA9F2}|Bai3\\Bai3.csproj|solutionrelative:bai3\\radixconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F245A8E1-A649-4FFA-A357-0CD3BCB0C75D}|Bai2.Tests\\Bai2.Tests.csproj|E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\bai2.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F245A8E1-A649-4FFA-A357-0CD3BCB0C75D}|Bai2.Tests\\Bai2.Tests.csproj|solutionrelative:bai2.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F5D125-6CF2-404E-ADCA-736E4478979F}|Bai2\\Bai2.csproj|E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\bai2\\polynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F5D125-6CF2-404E-ADCA-736E4478979F}|Bai2\\Bai2.csproj|solutionrelative:bai2\\polynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14637D7D-689F-4216-AEF5-E27073942359}|MathLibrary.Tests\\MathLibrary.Tests.csproj|E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\MathLibrary.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14637D7D-689F-4216-AEF5-E27073942359}|MathLibrary.Tests\\MathLibrary.Tests.csproj|solutionrelative:MathLibrary.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382828F7-A6CB-46E0-9183-4FB02BA1A2C7}|MathLibrary\\Bai1.csproj|E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\MathLibrary\\PowerCalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382828F7-A6CB-46E0-9183-4FB02BA1A2C7}|MathLibrary\\Bai1.csproj|solutionrelative:MathLibrary\\PowerCalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PalindromeCheckerTests.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai5.Tests\\PalindromeCheckerTests.cs",
+              "RelativeDocumentMoniker": "Bai5.Tests\\PalindromeCheckerTests.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai5.Tests\\PalindromeCheckerTests.cs",
+              "RelativeToolTip": "Bai5.Tests\\PalindromeCheckerTests.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:43:27.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PalindromeChecker.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai5\\PalindromeChecker.cs",
+              "RelativeDocumentMoniker": "Bai5\\PalindromeChecker.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai5\\PalindromeChecker.cs",
+              "RelativeToolTip": "Bai5\\PalindromeChecker.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:42:40.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FibonacciTests.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai4.Tests\\FibonacciTests.cs",
+              "RelativeDocumentMoniker": "Bai4.Tests\\FibonacciTests.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai4.Tests\\FibonacciTests.cs",
+              "RelativeToolTip": "Bai4.Tests\\FibonacciTests.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:38:06.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai4\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Bai4\\Fibonacci.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai4\\Fibonacci.cs",
+              "RelativeToolTip": "Bai4\\Fibonacci.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:37:24.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RadixConverterTests.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai3.Tests\\RadixConverterTests.cs",
+              "RelativeDocumentMoniker": "Bai3.Tests\\RadixConverterTests.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai3.Tests\\RadixConverterTests.cs",
+              "RelativeToolTip": "Bai3.Tests\\RadixConverterTests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:30:44.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RadixConverter.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai3\\RadixConverter.cs",
+              "RelativeDocumentMoniker": "Bai3\\RadixConverter.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai3\\RadixConverter.cs",
+              "RelativeToolTip": "Bai3\\RadixConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:29:25.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai2.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Bai2.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai2.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Bai2.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwC0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:24:48.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Polynomial.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai2\\Polynomial.cs",
+              "RelativeDocumentMoniker": "Bai2\\Polynomial.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\Bai2\\Polynomial.cs",
+              "RelativeToolTip": "Bai2\\Polynomial.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:23:10.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\MathLibrary.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MathLibrary.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\MathLibrary.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MathLibrary.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T01:54:57.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PowerCalculator.cs",
+              "DocumentMoniker": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\MathLibrary\\PowerCalculator.cs",
+              "RelativeDocumentMoniker": "MathLibrary\\PowerCalculator.cs",
+              "ToolTip": "E:\\CNTT\\Hoc_ki_8_2026\\DBCL_KTPM\\BT\\buoi4\\buoi4\\MathLibrary\\PowerCalculator.cs",
+              "RelativeToolTip": "MathLibrary\\PowerCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T01:53:50.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
